@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrsixx
 - 👀 I’m interested in math, physics, astronomy and programming
-- 🌱 I’m currently learning Vue 3 and Typescript
+- 🌱 Computer Science student at UFABC
 - 📫 matheus1999201000@gmail.com
 
 <!---
